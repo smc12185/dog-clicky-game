@@ -1,0 +1,30 @@
+{
+  "name": "dog-clicky-game",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "### Overview",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smc12185/dog-clicky-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smc12185/dog-clicky-game/issues"
+  },
+  "homepage": "https://github.com/smc12185/dog-clicky-game#readme"
+}
